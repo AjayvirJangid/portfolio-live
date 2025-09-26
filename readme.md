@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ajayvirjangid.github.io-blue?style=for-the-badge)](https://ajayvirjangid.github.io/portfolio-live/)  
 [![GitHub](https://img.shields.io/badge/GitHub-ajayvirjangid-black?style=for-the-badge&logo=github)](https://github.com/ajayvirjangid)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajayvirjangid-blue?style=for-the-badge&logo=linkedin)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajayvirjangid-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/ajayvir-jangid-b3193a225)  
 
 ---
 
@@ -66,9 +66,9 @@
 ## 📫 Connect With Me  
 
 - 🌐 **Portfolio**: [ajayvirjangid.github.io/portfolio-live](https://ajayvirjangid.github.io/portfolio-live/)  
-- 💼 **LinkedIn**: [linkedin.com/in/ajayvirjangid](#)  
+- 💼 **LinkedIn**: [linkedin.com/in/ajayvirjangid](https://in.linkedin.com/in/ajayvir-jangid-b3193a225)  
 - 🖥️ **GitHub**: [github.com/ajayvirjangid](https://github.com/ajayvirjangid)  
-- 📧 **Email**: ajayvirjangid.dev@gmail.com  
+- 📧 **Email**: ajayvirjangid@writeme.com 
 
 ---
 
